@@ -1,4 +1,4 @@
-/* "Let's make 16 games in C++ - part 7: OUTRUN" - by FamTrinli
+/* "Let's make 16 games in C++ - part 8: OUTRUN" - by FamTrinli
     ===========================================
 
    Youtube: https://youtu.be/N60lBZDEwJ8?list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr
