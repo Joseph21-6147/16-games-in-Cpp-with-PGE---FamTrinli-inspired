@@ -1,13 +1,3 @@
-// Series: Let's make 16 games in C++ and SFML (by FamTrinli)
-// Game  : Mahjong Solitaire
-//
-// Youtube: https://youtu.be/-CvqYl_w8Vk?list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr
-//
-// Implemented by: Joseph21
-// Date: 2022-05-30
-//
-// final version
-
 /* "Let's make 16 games in C++ - part 12: MAHJONG SOLITAIRE" - by FamTrinli
     =======================================================
 
