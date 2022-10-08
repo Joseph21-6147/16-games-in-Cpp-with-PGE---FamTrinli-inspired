@@ -1,13 +1,3 @@
-// Series: Let's make 16 games in C++ and SFML (by FamTrinli)
-// Game  : Tron
-//
-// Youtube: https://youtu.be/bwsyFVqWoz8?list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr
-//
-// Implemented by: Joseph21
-// Date: 2022-05-31
-//
-// final version
-
 /* "Let's make 16 games in C++ - part 13: TRON" - by FamTrinli
     ==========================================
 
